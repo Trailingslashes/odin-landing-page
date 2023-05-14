@@ -99,4 +99,37 @@ main section h1 {
 	gap: 56px;
 	padding: 10px;
 	flex-wrap: wrap;
+	margin-bottom: 50px;
+}
+
+.quote {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	background-color: #E5E7EB;
+	padding: 7em 13em;
+}
+
+.quote p {
+	align-self: flex-end;
+	font-weight: bolder;
+	font-size: 24px;
+	color: #1f2937;
+}
+
+.quote em {
+	font-size: 36px;
+	font-weight: 100;
+	color: #1f2937;
+}
+
+
+
+footer {
+	background-color: #1f2937;
+	color: #FFF;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 2em 0;
 }
