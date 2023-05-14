@@ -64,11 +64,8 @@ h1 {
 	background-color: #3882F6;
 	color: #F9FAF8;
 	border-radius: 14px;
-	width: 12%;
 	cursor: pointer;
 	padding: 6px 12px;
-	/* font-size: 13px; */
 	text-decoration: none;
 	text-shadow: 0px 1px 0px #3882F6;
-
 }
